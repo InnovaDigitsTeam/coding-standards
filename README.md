@@ -2,7 +2,7 @@
 
 ###### Available Languages
 
-[**PHP**](PHP.md) :face_exhaling: | [**JavaScript**](JS.md)
+[**PHP**](PHP.md) :face_exhaling: | [**JavaScript**](JS.md) :sweat: | [**HTML/CSS**](HTML-CSS.md) :blossom:
 
 ---
 

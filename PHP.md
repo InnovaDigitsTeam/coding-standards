@@ -1,4 +1,4 @@
-# Coding Standards for PHP/Laravel Team
+# Coding Standards for PHP/Laravel
 
 ### PHP
 
