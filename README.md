@@ -1,6 +1,10 @@
 <img src="https://innovadigits.com/wp-content/uploads/2022/06/Website_innova_Header_logo_Violet.png" height="70" />
 
-[PHP](PHP.md)
+###### Available Languages
+
+[**PHP**](PHP.md) :face_exhaling: | [**JavaScript**](JS.md)
+
+---
 
 # Coding Standards Policy
 
