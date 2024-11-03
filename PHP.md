@@ -8,4 +8,5 @@
 ### Laravel
 
 - Follow Laravel best practices as recommended in the [Laravel documentation](https://laravel.com/docs).
+- [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 - Use Artisan commands for creating classes and migrations to ensure consistency.
