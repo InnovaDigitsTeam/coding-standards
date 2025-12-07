@@ -1,6 +1,8 @@
-<img src="https://innovadigits.com/wp-content/uploads/2022/06/Website_innova_Header_logo_Violet.png" height="70" />
+<img src="https://innovadigits.com/wp-content/uploads/2025/08/Property-1Default.svg" height="40" alt="innovadigits" />
 
-###### Available Languages
+#
+
+### Available Languages
 
 [**PHP**](PHP.md) :face_exhaling: | [**JavaScript**](JS.md) :sweat: | [**HTML/CSS**](HTML-CSS.md) :blossom:
 
