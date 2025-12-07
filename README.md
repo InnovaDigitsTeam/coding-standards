@@ -33,3 +33,7 @@ This policy applies to all software development projects at **Innova Digits**.
 ## Conclusion
 
 Adhering to these coding standards is essential for our team’s success and efficiency. Your cooperation and diligence in following these guidelines are greatly appreciated. Please provide feedback on these standards and suggest improvements when necessary.
+
+## Others
+
+- [**API Design Standard Document**](api-standard-doc.md)
